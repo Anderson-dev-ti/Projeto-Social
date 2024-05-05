@@ -36,12 +36,11 @@ section#telefone {
 }
 
 iframe#tela {
-    background-color: red;
     position: absolute;
     top: 79px;
-    left: 22px;
-    height: 473px;
-    width: 267px;
+    left: 21px;
+    height: 477px;
+    width: 269px;
 }
 
 section#redes-sociais img {
@@ -60,4 +59,8 @@ section#redes-sociais img:hover {
     margin-right: 20px;
     border: 2px solid rgba(255, 255, 255, 0.776);
     transition: .3s;
+}
+
+section#redes-sociais a#facebook {
+
 }
